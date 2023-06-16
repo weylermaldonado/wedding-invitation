@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { TabContent, TabPane, Nav, NavItem, NavLink, } from 'reactstrap';
+import React from 'react';
+import { TabContent, TabPane } from 'reactstrap';
 import Sectiontitle from '../section-title'
 
 import './style.css'
@@ -16,18 +16,14 @@ const colors = [
     "#FFFFFF"
 ]
 const People = (props) => {
-    const [activeTab, setActiveTab] = useState('1');
 
-        const toggle = tab => {
-          if(activeTab !== tab) setActiveTab(tab);
-        }
     return(
 
         <div id="people" className="person-area section-padding pb-70">
             <div className="container">
                 <Sectiontitle section={'Código de vestimenta'}/>
                 <div className="person-area-menu">
-                    <TabContent activeTab={activeTab}>
+                    <TabContent activeTab={"1"}>
                         <TabPane tabId="1">
                         <div className="Groomsman-wrap">
                                 <p>

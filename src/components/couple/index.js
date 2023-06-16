@@ -1,5 +1,4 @@
 import React from 'react'
-import {Link} from 'react-router-dom'
 import Sectiontitle from '../section-title'
 import couple1 from '../../images/couple/img-1.jpg'
 import couple2 from '../../images/couple/img-2.jpg'

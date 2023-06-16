@@ -3,7 +3,7 @@ import {Link} from 'react-router-dom'
 import Sectiontitle from '../section-title'
 import strory1 from '../../images/events/1.jpg'
 import strory2 from '../../images/events/2.jpg'
-import strory3 from '../../images/events/3.jpg'
+
 
 import './style.css'
 
