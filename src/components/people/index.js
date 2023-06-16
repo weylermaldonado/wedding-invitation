@@ -39,12 +39,13 @@ Les dejamos una pequeña muestra de los colores que <strong> no están permitido
                                         {colors.map((color) => (
                                               <div  style={{
                                                 backgroundColor: color,
-                                                display: "flex",
+                                                display: "flex inline-block",
                                                 borderColor: "black",
-                                                width: '50px',
-                                                height: '50px',
-                                                borderRadius: "50%",
-                                                border: "1px solid black"
+                                                width: '40px',
+                                                height: '40px',
+                                                borderRadius: "60%",
+                                                border: "1px solid black",
+                                                marginRight: "3px"
                                             }}>
                                             </div>
                                         ))}

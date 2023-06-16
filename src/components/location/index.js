@@ -1,8 +1,7 @@
 import React from 'react'
-import {Link} from 'react-router-dom'
 import Sectiontitle from '../section-title'
-import strory1 from '../../images/events/1.jpg'
-import strory2 from '../../images/events/2.jpg'
+import strory1 from '../../images/church.webp'
+import strory2 from '../../images/local.webp'
 
 
 import './style.css'
@@ -24,11 +23,13 @@ const   Location = () => {
                         </div>
                         <div className="col-lg-7">
                             <div className="ceromony-content">
-                                <h3>Wedding Ceremony</h3>
-                                <span>Sunday, 25 July 18, 9.00 AM-5.00 PM</span>
-                                <span>256 Apay Road,Califonia Bong, London</span>
-                                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal </p>
-                                <Link to="/">See Location</Link>
+                                <h3>Ceremonia religiosa</h3>
+                                <span>Sábado, 21 Octubre 23, 8.00 PM-9.00 PM</span>
+                                <span>C. 50 entre Calle 69, Centro Barrio, San Cristobal, 97000 Mérida, Yuc.</span>
+                                <p>Hermosa Iglesia dedicada a la virgen de Guadalupe, inaugurada el jueves santo de 1797. </p>
+                               <div>
+                               <a href="https://goo.gl/maps/dSzM5naGjnjHnHFJ9">Ubicación</a>
+                               </div>
                             </div>
                         </div>
                     </div>
@@ -38,11 +39,11 @@ const   Location = () => {
                 <div className="row">
                     <div className="col-lg-7">
                         <div className="ceromony-content ceromony-content2">
-                            <h3>Wedding Party</h3>
-                            <span>Sunday, 25 July 18, 9.00 AM-5.00 PM</span>
-                            <span>256 Apay Road,Califonia Bong, London</span>
+                            <h3>Recepción</h3>
+                            <span>Sábado, 21 Octubre 23, 9.00 PM</span>
+                            <span>Avenida 51, Real Montejo, 97302 Mérida, Yuc.</span>
                             <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal </p>
-                            <Link to="/">See Location</Link>
+                            <a href="https://goo.gl/maps/QPecqbR7MYCEJBcN8">Ubicación</a>
                         </div>
                     </div>
                     <div className="col-lg-5">
