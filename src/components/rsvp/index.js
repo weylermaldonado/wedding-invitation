@@ -84,11 +84,11 @@ class Rsvp extends Component {
                             <div className="rsvp-wrap">
                                 <div className="col-12">
                                     <div className="section-title section-title4 text-center">
-                                        <h2>Be Our Guest</h2>
-                                        <p>Please reserve before December 15th, 2018.</p>
+                                        <h2>Se nuestro invitado</h2>
+                                        <p>Porfavor, confirma tu asistencia antes del 15 de Octubre del 2023.</p>
                                     </div>
                                 </div>
-                                <form onSubmit={this.subimtHandler}>
+                                {/* <form onSubmit={this.subimtHandler}>
                                     <div className="contact-form form-style">
                                         <div className="row">
                                             <div className="col-12 col-sm-6">
@@ -127,7 +127,10 @@ class Rsvp extends Component {
                                             <button id="submit" type="submit" className="submit">Send Invitation</button>
                                         </div>
                                     </div>
-                                </form>
+                                </form> */}
+                                <div className="col-12 text-center btn">
+                                    <a  href="https://wa.me/529993867773">Confirma tu asistencia</a>
+                                </div>
                             </div>
                         </div>
                     </div>

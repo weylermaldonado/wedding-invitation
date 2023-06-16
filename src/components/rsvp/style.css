@@ -88,6 +88,23 @@ select.form-control:not([size]):not([multiple]) {
 .contact-form button:hover {
     background: #3f7267;
 }
+
+.btn a {
+    display: inline-block;
+    background: #fff;
+    color: #649e93;
+    padding: 10px 38px;
+    font-size: 18px;
+    transition: all .3s;
+    font-weight: 600;
+    border-radius: 40px;
+}
+
+.btn a:hover {
+    background: #3f7267;
+    color: #fff;
+}
+
 ::-webkit-input-placeholder {
     /* Chrome/Opera/Safari */
 
@@ -112,3 +129,4 @@ select.form-control:not([size]):not([multiple]) {
     color: #666;
     font-size: 14px;
 }
+

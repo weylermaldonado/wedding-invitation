@@ -7,7 +7,7 @@ import strory3 from '../../images/events/3.jpg'
 
 import './style.css'
 
-const Location = () => {
+const   Location = () => {
     return(
 
         
@@ -52,7 +52,7 @@ const Location = () => {
                     </div>
                 </div>
             </div>
-            <div className="Ceremony-wrap">
+            {/* <div className="Ceremony-wrap">
                 <div className="row">
                     <div className="col-lg-5">
                         <div className="ceromony-img">
@@ -69,7 +69,7 @@ const Location = () => {
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
         </div>
     </div>
     )

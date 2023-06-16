@@ -21,16 +21,8 @@ const Couple = () => {
                                     </div>
                                     <div className="couple-text">
                                         <div className="couple-content">
-                                            <h3>NANCY ELIZABETH</h3>
+                                            <h3>Mirell Vera</h3>
                                             <p>Hi I am Nancy Elizabeth. I am going to introduce myself.I am a professional graphic designer professional graphic designer going to introduce myself.I am going to introduce myself.</p>
-                                        </div>
-                                        <div className="social-icon">
-                                            <ul className="d-flex">
-                                                <li><Link to='/'><span className="fa fa-facebook"></span></Link></li>
-                                                <li><Link to='/'><span className="fa fa-twitter"></span></Link></li>
-                                                <li><Link to='/'><span className="fa fa-google-plus"></span></Link></li>
-                                                <li><Link to='/'><span className="fa fa-linkedin"></span></Link></li>
-                                            </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -47,16 +39,8 @@ const Couple = () => {
                                     </div>
                                     <div className="couple-text">
                                         <div className="couple-content">
-                                            <h3>HARRY WILLIAM</h3>
-                                            <p>Hi I am Harry William. I am going to introduce myself.I am a professional graphic designer professional graphic designer going to introduce myself.I am going to introduce myself.</p>
-                                        </div>
-                                        <div className="social-icon">
-                                            <ul className="d-flex">
-                                                <li><Link to='/'><span className="fa fa-facebook"></span></Link></li>
-                                                <li><Link to='/'><span className="fa fa-twitter"></span></Link></li>
-                                                <li><Link to='/'><span className="fa fa-google-plus"></span></Link></li>
-                                                <li><Link to='/'><span className="fa fa-linkedin"></span></Link></li>
-                                            </ul>
+                                            <h3>Weyler Maldonado</h3>
+                                            <p>Hola soy Weyler Maldonado, ingeniero de software</p>
                                         </div>
                                     </div>
                                 </div>
