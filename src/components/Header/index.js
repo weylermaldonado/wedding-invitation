@@ -1,6 +1,5 @@
 import React from 'react';
 import {Link} from 'react-router-dom'
-import MobileMenu from '../../components/MobileMenu'
 
 import './style.css'
 
@@ -43,9 +42,9 @@ const Header = () => {
                                 </ul>
                             </div>
                         </div>
-                        <div className="col-2">
+                        {/* <div className="col-2">
                             <MobileMenu/>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
              </div>
