@@ -1,6 +1,16 @@
 import React from 'react';
 import {BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+// eslint-disable-next-line 
+import Homepage from '../HomePage'
+// eslint-disable-next-line 
+import Homepage2 from '../HomePage2'
+// eslint-disable-next-line 
+import Homepage3 from '../HomePage3'
 import Homepage4 from '../HomePage4'
+// eslint-disable-next-line 
+import BlogPage from '../blogpage'
+// eslint-disable-next-line 
+import BlogDetailsPage from '../BlogDetailsPage'
 import Footer from '../../components/footer'
 import Scrollbar from '../../components/scrollbar'
 import './App.css';
