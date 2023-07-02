@@ -21,7 +21,7 @@ const Couple = () => {
                                     <div className="couple-text">
                                         <div className="couple-content">
                                             <h3>Mirell Vera</h3>
-                                            <p>Hi I am Nancy Elizabeth. I am going to introduce myself.I am a professional graphic designer professional graphic designer going to introduce myself.I am going to introduce myself.</p>
+                                            <p>Hola soy Mirell, médico general, pet lover, fanática del pop romántico, Harry Potter y las tardes lluviosas <span role='img' aria-label="sheep">&#128120;</span>. </p>
                                         </div>
                                     </div>
                                 </div>
@@ -39,7 +39,7 @@ const Couple = () => {
                                     <div className="couple-text">
                                         <div className="couple-content">
                                             <h3>Weyler Maldonado</h3>
-                                            <p>Hola soy Weyler Maldonado, ingeniero de software</p>
+                                            <p>Hola soy Weyler Maldonado, ingeniero de software, amante del cine de terror, batman, videojuegos y de las carnitas asadas <span  role='img' aria-label="sheep">&#129312;</span>.</p>
                                         </div>
                                     </div>
                                 </div>

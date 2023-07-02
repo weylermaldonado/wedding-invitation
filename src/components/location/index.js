@@ -42,7 +42,7 @@ const   Location = () => {
                             <h3>Recepción</h3>
                             <span>Sábado, 21 Octubre 23, 9.00 PM</span>
                             <span>Avenida 51, Real Montejo, 97302 Mérida, Yuc.</span>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal </p>
+                            <p>Salón Guadalupe localizado en la parte posterior del Grand Real Club.</p>
                             <a href="https://goo.gl/maps/QPecqbR7MYCEJBcN8">Ubicación</a>
                         </div>
                     </div>

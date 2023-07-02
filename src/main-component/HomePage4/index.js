@@ -1,5 +1,5 @@
 import React from  'react';
-
+import { useLocation } from "react-router-dom";
 // components
 import Couple from '../../components/couple';
 import BackgroundVideo from '../../components/hero4';
@@ -12,21 +12,24 @@ import Rsvp from '../../components/rsvp';
 import Gift from '../../components/gift';
 import Navbar from '../../components/Navbar'
 import Saveday from '../../components/countdown'
-
+import guestList from "../../data/guests.json"
 
 const Homepage4 = () => {
+    const location = useLocation()
+    const id = location.pathname.split("/")[1]
+    let guest = guestList.find((guest) => guest.id === id)
     return(
        <div>
            <Navbar/>
            <BackgroundVideo/>
            <Saveday/>
            <Couple/>
-           <Welcome/>
+           <Welcome guest={guest}/>
            <Story/>
            <People/>    
            <Location/>
            <Gallery/>
-           <Rsvp/>
+           <Rsvp guest={guest}/>
            <Gift/>
            {/* <Recommendations/> */}
        </div>
