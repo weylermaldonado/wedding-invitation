@@ -15,8 +15,9 @@ import Saveday from '../../components/countdown'
 import guestList from "../../data/guests.json"
 
 const Homepage4 = () => {
-    const location = useLocation()
-    const id = location.pathname.split("/")[1]
+    const location = useLocation().search
+    const searchParams = new URLSearchParams(location)
+    const id = searchParams.get("invite_id")
     let guest = guestList.find((guest) => guest.id === id)
     return(
        <div>
