@@ -3,7 +3,7 @@ import React from 'react';
 import classes from '../../css/BackgroundVideo.module.css';
 
 const BackgroundVideo = () => {
-    const videoSource = "https://static.videezy.com/system/resources/previews/000/033/224/original/bride10.mp4"
+    const videoSource = "https://res.cloudinary.com/dwjth2ksp/video/upload/v1689874343/cover_oqtzqp.mp4"
     return (
       <div className="vedio-area" id="home">
           <div className={classes.Container} >

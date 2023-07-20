@@ -4,12 +4,6 @@ import 'react-fancybox/lib/fancybox.css'
 import Sectiontitle from '../section-title'
 import './style.css'
 
-import galimg1 from '../../images/gal/1.jpg'
-import galimg2 from '../../images/gal/6.jpg'
-import galimg3 from '../../images/gal/3.jpg'
-import galimg4 from '../../images/gal/4.jpg'
-import galimg5 from '../../images/gal/5.jpg'
-import galimg6 from '../../images/gal/2.jpg'
 
 class Gallery extends Component {
   render() {
@@ -21,43 +15,43 @@ class Gallery extends Component {
                   <div className="col-lg-4 col-md-6 col-sm-6 col-12">
                       <div className="gallery-img">
                         <ReactFancyBox
-                            thumbnail={galimg1}
-                            image={galimg1}/>
+                            thumbnail={"https://res.cloudinary.com/dwjth2ksp/image/upload/v1689874700/IMG_20230713_130413_i9pkg2.jpg"}
+                            image={"https://res.cloudinary.com/dwjth2ksp/image/upload/v1689874700/IMG_20230713_130413_i9pkg2.jpg"}/>
                       </div>
                   </div>
                   <div className="col-lg-4 col-md-6 col-sm-6 col-12">
                       <div className="gallery-img">
                         <ReactFancyBox
-                            thumbnail={galimg2}
-                            image={galimg2}/>
+                            thumbnail={"https://res.cloudinary.com/dwjth2ksp/image/upload/v1689874701/IMG_20230713_141214_ebz7km.jpg"}
+                            image={"https://res.cloudinary.com/dwjth2ksp/image/upload/v1689874701/IMG_20230713_141214_ebz7km.jpg"}/>
                       </div>
                   </div>
                   <div className="col-lg-4 col-md-6 col-sm-6 col-12">
                       <div className="gallery-img">
                         <ReactFancyBox
-                            thumbnail={galimg3}
-                            image={galimg3}/>
+                            thumbnail={"https://res.cloudinary.com/dwjth2ksp/image/upload/v1689874699/IMG_20230713_130830_ubx1yn.jpg"}
+                            image={"https://res.cloudinary.com/dwjth2ksp/image/upload/v1689874699/IMG_20230713_130830_ubx1yn.jpg"}/>
                       </div>
                   </div>
                   <div className="col-lg-4 col-md-6 col-sm-6 col-12">
                       <div className="gallery-img">
                         <ReactFancyBox
-                            thumbnail={galimg4}
-                            image={galimg4}/>
+                            thumbnail={"https://res.cloudinary.com/dwjth2ksp/image/upload/v1689874699/IMG_20230713_140821_ezyxsc.jpg"}
+                            image={"https://res.cloudinary.com/dwjth2ksp/image/upload/v1689874699/IMG_20230713_140821_ezyxsc.jpg"}/>
                       </div>
                   </div>
                   <div className="col-lg-4 col-md-6 col-sm-6 col-12">
                       <div className="gallery-img">
                         <ReactFancyBox
-                            thumbnail={galimg5}
-                            image={galimg5}/>
+                            thumbnail={"https://res.cloudinary.com/dwjth2ksp/image/upload/v1689874694/IMG_20230713_142632_fhszfj.jpg"}
+                            image={"https://res.cloudinary.com/dwjth2ksp/image/upload/v1689874694/IMG_20230713_142632_fhszfj.jpg"}/>
                       </div>
                   </div>
                   <div className="col-lg-4 col-md-6 col-sm-6 col-12">
                       <div className="gallery-img">
                         <ReactFancyBox
-                            thumbnail={galimg6}
-                            image={galimg6}/>
+                            thumbnail={"https://res.cloudinary.com/dwjth2ksp/image/upload/v1689874694/IMG_20230713_142525_kpkbu9.jpg"}
+                            image={"https://res.cloudinary.com/dwjth2ksp/image/upload/v1689874694/IMG_20230713_142525_kpkbu9.jpg"}/>
                       </div>
                   </div>
               </div>

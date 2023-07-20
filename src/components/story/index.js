@@ -1,9 +1,5 @@
 import React from 'react'
 import {Link} from 'react-router-dom'
-import strory1 from '../../images/story/1.jpg'
-import strory2 from '../../images/story/2.jpg'
-import strory3 from '../../images/story/3.jpg'
-import strory4 from '../../images/story/4.jpg'
 import './style.css'
 
 
@@ -29,7 +25,7 @@ const Story = () =>{
                                         <div className="image-wrap">
                                             <div className="single-image">
                                                 <div>
-                                                    <img src={strory1} alt=""/>
+                                                    <img src={"https://res.cloudinary.com/dwjth2ksp/image/upload/v1689876329/273970144_4808156145898476_930917741342612234_n_pfb4d3.jpg"} alt=""/>
                                                 </div>
                                             </div>
                                         </div>
@@ -49,7 +45,7 @@ const Story = () =>{
                                         <div className="image-wrap">
                                             <div className="single-image">
                                                 <div>
-                                                    <img src={strory2} alt=""/>
+                                                    <img src={"https://res.cloudinary.com/dwjth2ksp/image/upload/v1689875099/279354141_5014595868587835_3861332311727191067_n_opxta9.jpg"} alt=""/>
                                                 </div>
                                             </div>
                                         </div>
@@ -69,7 +65,7 @@ const Story = () =>{
                                         <div className="image-wrap">
                                             <div className="single-image">
                                                 <div>
-                                                    <img src={strory3} alt=""/>
+                                                    <img src={"https://res.cloudinary.com/dwjth2ksp/image/upload/v1689874700/IMG_20230713_131118_l5hp3m.jpg"} alt=""/>
                                                 </div>
                                             </div>
                                         </div>
@@ -89,7 +85,7 @@ const Story = () =>{
                                         <div className="image-wrap">
                                             <div className="single-image">
                                                 <div>
-                                                    <img src={strory4} alt=""/>
+                                                    <img src={"https://res.cloudinary.com/dwjth2ksp/image/upload/v1689876106/322101603_701109921566724_6892287540240225338_n_hk0zvh.jpg"} alt=""/>
                                                 </div>
                                             </div>
                                         </div>
