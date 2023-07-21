@@ -1,5 +1,4 @@
 import React from 'react'
-import {Link} from 'react-router-dom'
 import './style.css'
 
 
@@ -30,11 +29,13 @@ const Story = () =>{
                                             </div>
                                         </div>
                                         <h2>First time we met</h2>
-                                        <span className="date">July 20, 2017</span>
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some,</p>
-                                        <div className="story-button">
-                                            <Link className="theme-btn" to="/"  title="READ MORE">READ MORE</Link>
-                                        </div>
+                                        <span className="date">Febrero 14, 2022</span>
+                                        <p>
+                                            W. La primera vez que me animé a invitarla a salir un 14 de Febrero.
+                                        </p>
+                                        <span>
+                                        M. No sabía que se podía estar tan nerviosa y feliz al mismo tiempo.
+                                        </span>
                                     </div>
                                 </div>
                                 <div className="item">
@@ -50,11 +51,9 @@ const Story = () =>{
                                             </div>
                                         </div>
                                         <h2>Our First Date</h2>
-                                        <span className="date">Dec 25, 2017</span>
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some,</p>
-                                        <div className="story-button">
-                                            <Link className="theme-btn" to="/"  title="READ MORE">READ MORE</Link>
-                                        </div>
+                                        <span className="date">Mayo 3, 2022</span>
+                                        <p>M. Lo invité a una tarde divertida y diferente.</p>
+                                        <span>W. Por algún motivo me sentía contento y cómodo saliendo de mi zona de confort.</span>
                                     </div>
                                 </div>
                                 <div className="item">
@@ -70,11 +69,9 @@ const Story = () =>{
                                             </div>
                                         </div>
                                         <h2>Our Marriage Proposal</h2>
-                                        <span className="date">Jan 10, 2018</span>
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some,</p>
-                                        <div className="story-button">
-                                            <Link className="theme-btn" to="/"  title="READ MORE">READ MORE</Link>
-                                        </div>
+                                        <span className="date">Septiembre 4, 2022</span>
+                                        <p>W. No sabía como darle el anillo, menos sabía qué decirle en el momento, solo estaba seguro de pasar el resto de mis días con ella.</p>
+                                        <span>M. En la imperfección de nuestro ser, nos complementamos perfectamente. </span>
                                     </div>
                                 </div>
                                 <div className="item">
@@ -90,11 +87,9 @@ const Story = () =>{
                                             </div>
                                         </div>
                                         <h2>Our Engagement</h2>
-                                        <span className="date">Jan 22, 2018</span>
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some,</p>
-                                        <div className="story-button">
-                                            <Link className="theme-btn" to="/"  title="READ MORE">READ MORE</Link>
-                                        </div>
+                                        <span className="date">Diciembre 29, 2022</span>
+                                        <p>M. El primer día del resto de mi vida.</p>
+                                        <span>W. Hay momentos en la vida que solo se viven una vez y que jamás crees que te sucederán, pero agradezco haber podido vivir este momento contigo.</span>
                                     </div>
                                 </div>
                             </div>

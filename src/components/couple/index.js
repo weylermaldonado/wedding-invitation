@@ -1,6 +1,5 @@
 import React from 'react'
 import Sectiontitle from '../section-title'
-import couple1 from '../../images/couple/img-1.jpg'
 import couple3 from '../../images/couple/2.png'
 import './style.css'
 
@@ -15,7 +14,7 @@ const Couple = () => {
                             <div className="col-lg-5 col-md-12 col-sm-12 couple-single">
                                 <div className="couple-wrap couple-wrap-2">
                                     <div className="couple-img">
-                                        <img src={couple1} alt="thumb"/>
+                                        <img src={"https://res.cloudinary.com/dwjth2ksp/image/upload/v1689897708/9b1a457f-5e63-449e-8859-b13ef4768b36_lobqdu.jpg"} alt="thumb"/>
                                     </div>
                                     <div className="couple-text">
                                         <div className="couple-content">

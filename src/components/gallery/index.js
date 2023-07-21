@@ -43,15 +43,15 @@ class Gallery extends Component {
                   <div className="col-lg-4 col-md-6 col-sm-6 col-12">
                       <div className="gallery-img">
                         <ReactFancyBox
-                            thumbnail={"https://res.cloudinary.com/dwjth2ksp/image/upload/v1689874694/IMG_20230713_142632_fhszfj.jpg"}
-                            image={"https://res.cloudinary.com/dwjth2ksp/image/upload/v1689874694/IMG_20230713_142632_fhszfj.jpg"}/>
+                            thumbnail={"https://res.cloudinary.com/dwjth2ksp/image/upload/v1689874693/IMG_20230718_115604_dsm8sb.jpg"}
+                            image={"https://res.cloudinary.com/dwjth2ksp/image/upload/v1689874693/IMG_20230718_115604_dsm8sb.jpg"}/>
                       </div>
                   </div>
                   <div className="col-lg-4 col-md-6 col-sm-6 col-12">
                       <div className="gallery-img">
                         <ReactFancyBox
-                            thumbnail={"https://res.cloudinary.com/dwjth2ksp/image/upload/v1689874694/IMG_20230713_142525_kpkbu9.jpg"}
-                            image={"https://res.cloudinary.com/dwjth2ksp/image/upload/v1689874694/IMG_20230713_142525_kpkbu9.jpg"}/>
+                            thumbnail={"https://res.cloudinary.com/dwjth2ksp/image/upload/v1689874697/IMG_20230713_141543_hakxy7.jpg"}
+                            image={"https://res.cloudinary.com/dwjth2ksp/image/upload/v1689874697/IMG_20230713_141543_hakxy7.jpg"}/>
                       </div>
                   </div>
               </div>
