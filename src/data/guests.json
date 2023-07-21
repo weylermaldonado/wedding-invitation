@@ -200,8 +200,8 @@
     {
         "id": "u4wky0",
         "guest": {
-            "name": "Jhon Doe",
-            "companions": 2,
+            "name": "Astrid",
+            "companions": 1,
             "allow_childs": false,
             "gender": "F"
         }
@@ -209,8 +209,8 @@
     {
         "id": "fljfvp",
         "guest": {
-            "name": "Jhon Doe",
-            "companions": 2,
+            "name": "Laura",
+            "companions": 1,
             "allow_childs": false,
             "gender": "F"
         }

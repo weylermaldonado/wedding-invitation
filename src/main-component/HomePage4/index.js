@@ -28,7 +28,7 @@ const Homepage4 = () => {
            <Welcome guest={guest}/>
            <Story/>
            <People/>    
-           <Location/>
+           {guest && <Location/>}
            <Gallery/>
            <Rsvp guest={guest}/>
            <Gift/>
