@@ -1,19 +1,33 @@
-Nombre,Acompanantes
-Iliana & Virgilio,0
-Iván & Sarah,1
-Tío Darvin,0
-Omar & Bris,0
-Tío Guty,0
-Tía Enna & Tío Pancho,1
-Tía Joaquina,1
- Isabel Quiñones,1
-Francisco Quiñones,1
-Ricardo Quiñones,1
-Vick,3
-Abraham,2
-Carlos,1
-Mexcito,1
-Kampa,1
-José May,1
-Alan & Lisley,1
-Laura,1
+Nombre,Acompanantes,Genero
+Martha & Familia,3,F
+José & Valeria,0,M & F
+Miguel,0,M
+Ricardo,1,M
+Luis,1,M
+Linda,1,F
+Leonardo,1,M
+Francisco,1,M
+Glendy & Esposo,0,F & M
+Manuel,1,M
+Luis & Esposa,0,M & F
+Ysabel & Esposo,0,F & M
+Alondra & Esposo,0,F & M
+Canepa,1,M
+Aaron,1,M
+Leydi,0,F
+Mariana & Esposo,0,F & M
+Erika & Esposo,0,F & M
+Rocio & Normando,0,F & M
+Katia,2,F
+Tia Irma & Tío Yanuario,0,F & M
+Tia Gladys & Tío Adrián ,0,F & M
+Prima Zenayda & Primo Yanuario,1,F & M
+Prima Edith & Primo Victor ,1,F & M
+Tia Guadalupe ,0,F
+Tia Antonia & Tío José ,0,F & M
+Tia Aida & Prima Wendy,0,F & F
+Prima Sugey,1,F
+Ángel ,1,M
+Franklin,1,M
+Sofia,1,F
+Laura,1,F
