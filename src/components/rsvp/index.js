@@ -16,7 +16,8 @@ const Rsvp = ({ guest }) => {
 Agradecemos tu comprensión.</strong></i></p>}
                                 </div>
                                 { (guest && guest.guest.companions > 0) && <div className="section-title section-title4 text-center">
-                                <strong>Acompañantes extra permitidos:</strong> {guest.guest.companions}
+                                <strong>Acompañantes permitidos:</strong> {guest.guest.companions}
+                                <p> <i>Nota: Los acompañantes permitidos son las personas que tendrán acceso al evento además de ti.</i> </p>
                                 </div>}
                             </div>
                           
