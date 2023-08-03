@@ -12,7 +12,7 @@ const Rsvp = ({ guest }) => {
                                 <div className="section-title section-title4 text-center">
                                     <h2>Se nuestro invitado</h2>
                                     <p>Porfavor, confirma tu asistencia antes del 15 de Octubre del 2023.</p>
-                                    {(!guest || guest.guest.allow_childs) && <p><i><strong>Nota: Por medidas de seguridad este evento es <u>únicamente para adultos</u>, sin excepción no se permite la entrada a menores.
+                                    {(!guest || guest.guest.show_child_message) && <p><i><strong>Nota: Por medidas de seguridad este evento es <u>únicamente para adultos</u>, sin excepción no se permite la entrada a menores.
 Agradecemos tu comprensión.</strong></i></p>}
                                 </div>
                                 { (guest && guest.guest.companions > 0) && <div className="section-title section-title4 text-center">
