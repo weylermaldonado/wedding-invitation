@@ -498,5 +498,15 @@
             "multiple": false,
             "gender": "F"
         }
+    },
+    {
+        "id": "3ufjr8",
+        "guest": {
+            "name": "Pochito",
+            "companions": 1,
+            "show_child_message": false,
+            "multiple": false,
+            "gender": "M"
+        }
     }
 ]
