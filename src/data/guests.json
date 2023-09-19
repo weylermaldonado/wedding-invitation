@@ -508,5 +508,25 @@
             "multiple": false,
             "gender": "M"
         }
+    },
+    {
+        "id": "20yew9",
+        "guest": {
+            "name": "Lylo & Rommel",
+            "companions": 0,
+            "show_child_message": false,
+            "multiple": true,
+            "gender": "F"
+        }
+    },
+    {
+        "id": "wgwrib",
+        "guest": {
+            "name": "Victoria",
+            "companions": 1,
+            "show_child_message": false,
+            "multiple": false,
+            "gender": "F"
+        }
     }
 ]
