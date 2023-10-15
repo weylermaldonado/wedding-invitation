@@ -528,5 +528,36 @@
             "multiple": false,
             "gender": "F"
         }
+    },
+    {
+        "id": "0y2b23",
+        "guest": {
+            "name": "Astrid y Oscar",
+            "companions": 0,
+            "show_child_message": false,
+            "multiple": true,
+            "gender": "F"
+        }
+    },
+    {
+        "id": "6yrmy5",
+        "guest": {
+            "name": "Norma",
+            "companions": 1,
+            "show_child_message": false,
+            "multiple": false,
+            "gender": "F"
+        }
+    },
+    {
+        "id": "jz8pov",
+        "guest": {
+            "name": "Maydali",
+            "companions": 1,
+            "show_child_message": false,
+            "multiple": false,
+            "gender": "F"
+        }
     }
+
 ]

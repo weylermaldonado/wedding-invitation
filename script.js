@@ -54,8 +54,9 @@ fs.writeFileSync("guests.json", jsn, "utf-8")
 
 
 async function main() {
-    await readCSV()
-    generateGuestJSON()
+    // await readCSV()
+    // generateGuestJSON()
+    console.log(generateUID())
 } 
 
 main()
