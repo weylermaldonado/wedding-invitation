@@ -1,7 +1,7 @@
 import React from 'react'
 import Sectiontitle from '../section-title'
 import strory1 from '../../images/church.webp'
-import strory2 from '../../images/local.webp'
+import strory2 from '../../images/local.jpeg'
 
 
 import './style.css'
@@ -41,9 +41,9 @@ const   Location = () => {
                         <div className="ceromony-content ceromony-content2">
                             <h3>Recepción</h3>
                             <span>Sábado, 21 Octubre 23, 9.00 PM</span>
-                            <span>Avenida 51, Real Montejo, 97302 Mérida, Yuc.</span>
-                            <p>Salón Guadalupe localizado en la parte posterior del Grand Real Club.</p>
-                            <a href="https://goo.gl/maps/QPecqbR7MYCEJBcN8">Ubicación</a>
+                            <span>C. 34 380, San Pedro Uxmal, 97203 Mérida, Yuc.</span>
+                            <p>Salón Kaovi.</p>
+                            <a href="https://maps.app.goo.gl/6ZKAUSHvCuTXS1d76">Ubicación</a>
                         </div>
                     </div>
                     <div className="col-lg-5">
